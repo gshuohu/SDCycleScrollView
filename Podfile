@@ -1,4 +1,4 @@
-platform :ios, '8.1'
+platform :ios, '8.0'
 target 'SDCycleScrollView'
 
 #use_frameworks!
